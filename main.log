@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.5)  16 APR 2024 15:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.5)  16 APR 2024 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1396,7 +1396,7 @@ Overfull \hbox (32.52756pt too wide) in paragraph at lines 209--210
 
 
 Underfull \hbox (badness 2376) in paragraph at lines 206--212
-[]\OT1/txr/m/n/12 In Fig-ure 2 we plot $\OMS/txsy/m/n/12 j\OML/txmi/m/it/12 H\O
+[]\OT1/txr/m/n/12 In Fig-ure 3 we plot $\OMS/txsy/m/n/12 j\OML/txmi/m/it/12 H\O
 T1/txr/m/n/12 (\OML/txmi/m/it/12 j\OT1/txr/m/n/12 
 )\OMS/txsy/m/n/12 j$ \OT1/txr/m/n/12 us-ing ([]26[])
  []
