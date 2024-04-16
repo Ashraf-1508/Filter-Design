@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.5)  14 APR 2024 22:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.5)  16 APR 2024 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1371,10 +1371,7 @@ Underfull \hbox (badness 4279) in paragraph at lines 161--162
 []$[]$ \OT1/txr/m/n/12 Thus, we
  []
 
-
-LaTeX Warning: Reference `lpfirst' on page 2 undefined on input line 170.
-
-<figs/pole-zero.png, id=84, 578.16pt x 433.62pt>
+<figs/pole-zero.png, id=85, 578.16pt x 433.62pt>
 File: figs/pole-zero.png Graphic file (type png)
 <use figs/pole-zero.png>
 Package pdftex.def Info: figs/pole-zero.png  used on input line 186.
@@ -1387,7 +1384,7 @@ Underfull \hbox (badness 6284) in paragraph at lines 195--196
 []\OT1/txr/m/n/12 Thus, for N even, the low-pass sta-ble
  []
 
-<figs/figure1.png, id=88, 462.528pt x 346.896pt>
+<figs/figure1.png, id=89, 462.528pt x 346.896pt>
 File: figs/figure1.png Graphic file (type png)
 <use figs/figure1.png>
 Package pdftex.def Info: figs/figure1.png  used on input line 209.
@@ -1401,7 +1398,7 @@ Overfull \hbox (32.52756pt too wide) in paragraph at lines 209--210
 Underfull \hbox (badness 2376) in paragraph at lines 206--212
 []\OT1/txr/m/n/12 In Fig-ure 2 we plot $\OMS/txsy/m/n/12 j\OML/txmi/m/it/12 H\O
 T1/txr/m/n/12 (\OML/txmi/m/it/12 j\OT1/txr/m/n/12 
-)\OMS/txsy/m/n/12 j$ \OT1/txr/m/n/12 us-ing ([]27[])
+)\OMS/txsy/m/n/12 j$ \OT1/txr/m/n/12 us-ing ([]26[])
  []
 
 [2]
@@ -1499,18 +1496,15 @@ Overfull \hbox (32.52756pt too wide) in paragraph at lines 382--383
  []
 
 [5 <./figs/figure5.png> <./figs/figure6.png>] (./main.aux)
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4EEF228631B5F71DABEB76D4F09835D2;1674.
  ) 
 Here is how much of TeX's memory you used:
- 43647 strings out of 478287
- 1004993 string characters out of 5849290
+ 43644 strings out of 478287
+ 1004967 string characters out of 5849290
  1535456 words of memory out of 5000000
- 61018 multiletter control sequences out of 15000+600000
- 545732 words of font info for 183 fonts, out of 8000000 for 9000
+ 61017 multiletter control sequences out of 15000+600000
+ 545501 words of font info for 182 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  115i,13n,118p,424b,1789s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -1524,10 +1518,10 @@ e/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.p
 fb>
-Output written on main.pdf (5 pages, 300409 bytes).
+Output written on main.pdf (5 pages, 298886 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 97 named destinations out of 1000 (max. 500000)
+ 268 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 96 named destinations out of 1000 (max. 500000)
  136 words of extra memory for PDF output out of 10000 (max. 10000000)
 

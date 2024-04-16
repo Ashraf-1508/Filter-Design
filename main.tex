@@ -147,7 +147,7 @@ There exists a recurssive relation from which all the polynomials can be found o
 Imposing the band restrictions on \eqref{eq:mag_freq_response} \\
 \begin{align}
     \vert H_{a,LP}(j\Omega_L)\vert^2 < \delta_{2} \hspace{5pt} \text{for}\hspace{5pt} \Omega_L = \Omega_{Ls}\\
-    1-\delta_{1}<\vert H_{a,LP}(j\Omega_L)\vert^2 < 1 \hspace{5pt} \text{for}\hspace{5pt} \Omega_L = \Omega_{Lp}\\
+    1-\delta_{1}<\vert H_{a,LP}(j\Omega_L)\vert^2 < 1 \hspace{5pt} \text{for}\hspace{5pt} \Omega_L = \Omega_{Lp}
 \end{align}
 we obtain :
 \begin{eqnarray}
@@ -167,7 +167,7 @@ where
 \begin{equation}
 c_4(x) = 8x^4 - 8x^2 + 1.	
 \end{equation}
-The poles of the frequency response in (\ref{lpfirst}) lying in the left half plane are in general obtained as 
+The poles of the frequency response in (\ref{eq:mag_freq_response}) lying in the left half plane are in general obtained as 
 \begin{align}
     p(k) = -\sinh{\phi}\sin{\phi(k)}+j\cosh{\phi}\cos{\phi(k)}
 \end{align}
@@ -236,7 +236,7 @@ And the coefficients are stored into the .txt file,
 \begin{lstlisting}
     https://github.com/Ashraf-1508/Filter-Design/blob/main/codes/coefficients_analog.txt
 \end{lstlisting}
-In Figure 3, we plot $\vert H_{a,BP}(j\Omega)\vert$ as a function of $\Omega$ for both positve as
+In Figure 4, we plot $\vert H_{a,BP}(j\Omega)\vert$ as a function of $\Omega$ for both positve as
 well as negative frequencies.  We find that the passband and stopband frequencies in the figure
 match well with those obtained analytically through the bilinear transformation.
 \end{enumerate}
